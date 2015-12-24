@@ -16,10 +16,10 @@ static const char* vs_asr_rtc_spec[] =
   {
     "implementation_id", "VS_ASR_RTC",
     "type_name",         "VS_ASR_RTC",
-    "description",       "ModuleDescription",
+    "description",       "VStone Academic Scala Robot",
     "version",           "1.0.0",
     "vendor",            "Saitama Univ. Design Lab.",
-    "category",          "Industrial Robot",
+    "category",          "Manipulator",
     "activity_type",     "PERIODIC",
     "kind",              "DataFlowComponent",
     "max_instance",      "1",
